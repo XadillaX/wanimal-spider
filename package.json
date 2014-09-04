@@ -1,12 +1,12 @@
 {
   "name": "wanimal-spider",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An image spider for a certain Lofter Blog called WANIMAL.",
   "main": "spider.js",
   "dependencies": {
-    "scarlet-task": "~0.0.1",
+    "scarlet-task": "~0.0.7",
     "async": "~0.9.0",
-    "spidex": "~1.0.6"
+    "spidex": "~1.0.7"
   },
   "devDependencies": {},
   "scripts": {
